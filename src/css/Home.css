@@ -1,0 +1,170 @@
+/* .carousel-inner img {
+    width: 1540px;
+    height: 650px;
+}
+
+.form input {
+    margin-top: 50px;
+    width: 500px;
+    margin-left: 30%;
+    margin-bottom: 20px;
+}
+
+.form button {
+    margin-top:30px;
+    background-color: rgb(6, 71, 49);
+    width: 100px;
+}
+.form button:hover {
+   background-color: rgb(20, 82, 82);
+}
+
+.form-group img {
+    height: 300px;
+    width: 250px;
+    margin-top: 5px;
+    margin-left: 60px;
+}
+
+.form-group p {
+    margin-top: 8px;
+    margin-left: 45%;
+    font-size: 20px;
+    color: rgb(169, 169, 6);
+}
+
+.form-group h5 {
+    margin-top: 5px;
+    margin-left: 35%;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.Btn button {
+    margin-left: 50%;
+    width: 100px;
+    background-color: rgb(6, 71, 49);
+}
+
+.Btn button:hover {
+    background-color: rgb(20, 82, 82);
+}
+
+.home-item {
+    border: 1px solid lightgrey;
+    padding: 50px 50px;  
+    width: 900px;
+    margin-top: 40px;
+    height: 250px;
+}
+
+.Image img{
+    margin-left: 900px;
+    margin-top: -25%;
+    height: 250px;
+    width: 500px;
+}
+
+.home-item button {
+    margin-top: 3%;
+    width: 100px;
+    background-color: rgb(6, 71, 49);
+}
+
+.home-item button:hover {
+    background-color: rgb(20, 82, 82);
+}
+
+.home-item h4 {
+    color: rgb(137, 131, 5);
+    margin-top: -4%;
+    font-size: 20px;
+}
+
+.home-item h6 {
+    margin-top: 2%;
+    font-size: 16px;
+}
+
+.row p {
+    margin-top: 4%;
+} */
+
+.single-btn button {
+    background: #f1efef;
+    display: inline-block;
+    padding: .5rem 2rem;
+    text-decoration: none;
+    color: rgb(12, 11, 11);
+    border: 3px solid transparent;
+    transition: 0.1s;
+    margin-top: 1rem;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-family: serif;
+    margin-right: -5%;
+    margin-left: 7%;
+    width: 15%;
+    height: 45px;
+}
+
+.single-btn button:hover {
+    border: 2px solid rgb(221, 228, 228);
+    background-color: rgb(223, 224, 225);
+    color: rgb(84, 82, 82);
+}
+
+.single-btn img {
+    width: 30px;
+    height: 30px;
+    margin-left: -45%;
+    margin-right: 3%;
+    margin-top: -2px;
+    
+}
+
+.text-contect {
+    background-color:  rgb(254, 127, 239);
+    height: 500px;
+    margin-top: 2%;
+}
+
+.settingsImage img {
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    object-fit: cover;
+    border: 5px solid orange;
+
+  }
+
+  .Image {
+    background-color:  rgb(250, 246, 250);
+    height: 380px;
+    margin-top: 2%;
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  .Image h4 {
+    margin-top: 2%;
+    font-family: serif;
+    color: #fc1d1d;
+    font-size: 20px;
+  }
+.Image img{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+    margin-right: 3%;
+   /* padding: 0.5cm 0.2cm; */
+}
+.Image img :hover {
+    background: rgb(208, 35, 208);
+    cursor: pointer;
+    color: rgb(10, 9, 9);
+}
+ 
+

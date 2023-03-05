@@ -1,0 +1,95 @@
+.box {
+    background-color:  rgb(250, 246, 250);
+    height: 2200px;
+    margin-top: 3%;
+    width: 100%;
+}
+
+.box img {
+    width: 100px;
+    margin-left: 20%;
+    margin-right: -20%;
+    border: 3px solid transparent;
+    transition: 0.1s;
+}
+.box img :hover {
+    cursor: pointer;
+    border: 3px solid transparent;
+    transition: 0.1s;
+}
+.box p {
+    margin-left: 15px;
+    font-family: serif;
+    margin-top: -10%;
+}
+.box h5{
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.Product img{
+    width: 200px;
+    height: 260px;
+    margin-top: 10%;
+    margin-left: 10%;
+    border: 3px solid transparent;
+    transition: 0.1s;
+}
+
+.Product h5{
+    margin-top: 5%;
+    margin-left: 2%;
+}
+.Product h4 {
+    color: rgb(228, 49, 13);
+    font-family: serif;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-top: -3%;
+}
+.Product i{
+    font-size: 10px;
+    margin-left: 7%;
+    margin-right: -6%;
+    color: #f6ef2f;
+}
+
+.content img {
+    width: 450px;
+    margin-top: 15%;
+    margin-left: 5%;
+    border: 3px solid transparent;
+    transition: 0.1s;
+    border-radius: 10px;
+}
+.text {
+    margin-left: 10%;
+}
+
+.text h4{
+    font-size: 16px;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
+.text p {
+    margin-top: -1%;
+    font-size: 13px;
+}
+
+.text-item {
+ margin-left: 50%;
+   margin-top: -12.5%;
+}
+
+.text-item p{
+    margin-top: -1%;
+    font-size: 13px;
+    margin-bottom: 1%;
+}
+
+.text-item h4 {
+    font-size: 16px;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}

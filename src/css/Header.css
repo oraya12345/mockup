@@ -1,0 +1,88 @@
+header {
+  background-color: #FF9900;
+}
+nav {
+  display: flex;
+  height: 80px;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  display: flex;
+  z-index: 999;
+}
+
+@media screen and (min-width: 800px){
+ 
+  ul {
+    display: flex;
+    justify-content: flex-end;
+    width: 80%;
+    flex-direction: row;
+  }
+
+  ul li {
+    display: inline-block;
+    margin: 0 70px 0 0;
+    text-align: left;
+    border-bottom-style: none;
+    padding: 0;
+  } 
+}
+
+.topListItem {
+  font-size: 13px;
+  margin-top: 4px;
+  color: rgb(162, 165, 167);
+}
+.topList  {
+  background-color: #f5f2ed; /*navbarด้านบน*/
+  height: 30px;
+  width: 100%;
+  margin-bottom: -0.1%;
+}
+   
+.navthree {
+  background-color: #FFFFFF; /*navbarด้านบน*/
+  position: sticky;
+  top: 0;
+  display: flex;
+  z-index: 999;
+}
+
+.navthree input{
+  margin-left: 20px;
+  width: 700px;
+  margin-top: 16px;
+  background-color: #edebe7;
+  height: 38px;
+  border-radius: 1.5%;
+  font-size: 13px;
+}
+
+
+.navthree img{
+  width: 200px;
+  height: 70px;
+  margin-left: 20%;
+}
+
+.btn{
+   background-color: #FF9900;
+   width: 60px;
+   border-radius: 1.5%;
+}
+.btn i{
+  color: #edebe7;
+}
+
+.image img{
+  width: 200px;
+  height: 50px;
+  margin-left: 50px;
+}
+ .cart i{
+  color: #05087a;
+  margin-left: 40px;
+  font-size: 23px;
+  margin-top: 10%;
+ }
